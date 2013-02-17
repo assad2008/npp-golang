@@ -2,3 +2,14 @@ npp-golang
 ==========
 
 Syntax highlighting support for google go (golang) in Notepad++
+
+Installation
+----
+
+1. On the Notepad++ toolbar menu select Language->Define your language
+
+2. A user defined language window should open. Click the import button and navigate to the golang.xml file 
+	and open it.
+	
+3. You may need to re-open your .go files or restart notepad++ in order to see the highlighting changes.
+
