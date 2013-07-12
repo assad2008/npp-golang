@@ -1,7 +1,8 @@
 npp-golang
 ==========
 
-Syntax highlighting support for google go (golang) in Notepad++
+golang syntax highlighting for notepad++
+This file provides Syntax highlighting support for Google Go Language (golang) in Notepad++
 
 Installation
 ----
